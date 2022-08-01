@@ -2,5 +2,4 @@ sklearn
 matplotlib
 seaborn
 nba_api
-mpl_toolkits
 scipy
